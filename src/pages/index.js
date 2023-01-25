@@ -84,7 +84,7 @@ export default ({ data }) => {
     <Layout>
       <Seo title="Home" />
       <div>
-        <h1>Camilo Thoughts</h1>
+        <h1>Camilo Pensamientos</h1>
       </div>
       <h4>{data.allMarkdownRemark.totalCount}</h4>
       {data.allMarkdownRemark.edges.map(({ node }) => (

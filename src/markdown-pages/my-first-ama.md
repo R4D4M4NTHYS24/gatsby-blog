@@ -1,9 +1,9 @@
 ---
-title: 'My First AMA'
-date: '2017-08-21'
-description: 'My first AMA :)'
+title: "Mi primer video en youtube"
+date: "2016-05-15"
+description: "Mi primer video en youtube :)"
 ---
 
-Thank you everyone who enjoyed the AMA! It was my first one and I'd love to do it again.
+Muchas gracias a todos! Este es un video que realice en youtube en donde hablo acerca de la manipulacion mediatica, este material fue con propositos academicos. disfrutenlo :)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DXJO3AraeMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fYCZq6S-vWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
